@@ -34,6 +34,7 @@ const allowedOrigins = [
   'http://127.0.0.1:5174',
   'https://intellicart-frontend.vercel.app',
   'https://intellicart-admin.vercel.app',
+  'https://intellicart-kappa.vercel.app',
   process.env.FRONTEND_URL,
 ].filter(Boolean);
 
